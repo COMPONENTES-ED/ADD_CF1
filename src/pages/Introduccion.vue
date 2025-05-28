@@ -92,11 +92,11 @@
                 referrerpolicy="strict-origin-when-cross-origin"
                 allowfullscreen="allowfullscreen"
               ></iframe>
-              <figcaption>
-                Video. Organización de la muestra de datos de acuerdo a las
-                metodologías estadísticas
-              </figcaption>
             </div>
+            <figcaption>
+              Video. Organización de la muestra de datos de acuerdo a las
+              metodologías estadísticas
+            </figcaption>
           </figure>
         </div>
       </div>
