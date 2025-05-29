@@ -94,8 +94,7 @@
               ></iframe>
             </div>
             <figcaption>
-              Video. Organización de la muestra de datos de acuerdo a las
-              metodologías estadísticas
+              Video. Fuentes y técnicas de recolección de datos para análisis
             </figcaption>
           </figure>
         </div>
