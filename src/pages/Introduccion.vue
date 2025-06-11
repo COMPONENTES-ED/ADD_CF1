@@ -85,7 +85,7 @@
               <iframe
                 width="1236"
                 height="695"
-                src="https://www.youtube.com/embed/gYb2piVtFHY?si=JrOknn-QVhU1Ho3g"
+                src="https://www.youtube.com/embed/_BFoc5ZuhfY?si=7DtPltfXWw6XpWkq"
                 title="Fuentes y técnicas de recolección de datos para análisis"
                 frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
